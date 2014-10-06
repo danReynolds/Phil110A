@@ -2,7 +2,7 @@
 ## Anselm's Ontological Argument for God's Existence
 *Ontology* is a philosophical term referring to a subsection of metaphysics dealing with questions of existence. Questions related to the determination of what does and does not exist is under the branch of ontology.
 
-Anselm suggests that there is a special connection between the idea of God and the idea of existence. It tries to establish the existence of God on the idea of God.
+Anselm suggests that there is a special connection between the idea of God and the idea of existence. He tries to establish the existence of God on the idea of God.
 
 He defines God as:
 
@@ -232,3 +232,4 @@ There are intellectual grounds for deciding, such as the lifestyles and success 
 
 
 
+<span id="scroll_mark"></span>
